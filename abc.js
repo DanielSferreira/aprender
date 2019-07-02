@@ -1,3 +1,3 @@
 document.write("Abacate");
-console.log(`Amendoin♥`);
+console.log(`A vida é mais que isso`);
  
