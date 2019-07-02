@@ -1,4 +1,3 @@
-console.log(`loucão`);
-console.log(`Abacate`);
+document.write("Abacate");
 console.log(`Amendoin♥`);
  
